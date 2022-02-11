@@ -16,7 +16,7 @@ public class P42748 {
             arr.add(Arrays.stream(tem).sorted().toArray()[command[2] - 1]);
         }
 //        System.out.println(arr);
-        int[] answer= arr.stream().mapToInt(i->i).toArray();
+        int[] answer= arr.stream().mapToInt(i->i).toArray(); // ArrayList를 일반 list로 바꿔주는 방법
         return answer;
     }
 
