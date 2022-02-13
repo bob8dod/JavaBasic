@@ -1,7 +1,7 @@
 import java.util.*;
 /*
 정렬 메소드를 새로 정의해서 할 필요없이
-max값을 구해서 max값과 똑같은 얘를 체크한 버전.
+max값을 구해서 max값과 똑같은 얘를 체크한 버전. -> Arrays.stream(arr).max.getAsInt();
 훨씬 효율적이고 빠르게 작성 가능.
 */
 public class P42840_opt {
