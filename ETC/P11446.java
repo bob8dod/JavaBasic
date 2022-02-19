@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class P11446 {
     public static int solution(int[] arr) {
-        int min = 100000000;
+        int min = 10000000;
         int res = 0;
         for(int i = 0; i<=255; i++){
             int less = 0;
