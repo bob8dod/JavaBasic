@@ -1,2 +1,2 @@
-# Java basic
-# with Algorithm
+# Java 
+# with Basic Algorithm
