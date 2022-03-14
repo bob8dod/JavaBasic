@@ -1,2 +1,1 @@
-# Java 
-# with Basic Algorithm
+# Using JAVA
